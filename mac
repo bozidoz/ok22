@@ -1,0 +1,27 @@
+EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845453.png" group-title="|EU| FRANCE HEVC",##### GENERAL #####
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845453&extension=ts&play_token=PsiQiWP6Jb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845452.png" group-title="|EU| FRANCE HEVC",FR - TF1 HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845452&extension=ts&play_token=c7PDJ1H2nu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1161549.png" group-title="|EU| FRANCE HEVC",FR - TF1+ STAR ACADEMY HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=1161549&extension=ts&play_token=XqgVWGSZjK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845450.png" group-title="|EU| FRANCE HEVC",FR - FRANCE 2 HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845450&extension=ts&play_token=9rya18LjJs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845449.png" group-title="|EU| FRANCE HEVC",FR - FRANCE 3 HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845449&extension=ts&play_token=bWN1bt2RiB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845448.png" group-title="|EU| FRANCE HEVC",FR - FRANCE 3 NOA HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845448&extension=ts&play_token=UXWxN3BBJJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845447.png" group-title="|EU| FRANCE HEVC",FR - FRANCE 4 HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845447&extension=ts&play_token=QLLVS0kqPo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845446.png" group-title="|EU| FRANCE HEVC",FR - FRANCE 5 HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845446&extension=ts&play_token=HD3dkXpjCJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845445.png" group-title="|EU| FRANCE HEVC",FR - M6 HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845445&extension=ts&play_token=2vrUG5Ni0j
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845444.png" group-title="|EU| FRANCE HEVC",FR - C8 HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845444&extension=ts&play_token=h8CBiQOdTv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845443.png" group-title="|EU| FRANCE HEVC",FR - W9 HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845443&extension=ts&play_token=aB0IhxKfW4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845442.png" group-title="|EU| FRANCE HEVC",FR - 6TER HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845442&extension=ts&play_token=DZG4Ggmrrs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845441.png" group-title="|EU| FRANCE HEVC",FR - TF1 FILMS & SÉRIES HEVC
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:A1:D2:47&stream=845441&extension=ts&play_token=0NskbkRzq0
